@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "subtle-signal-282410",
+  "private_key_id": "70ae77f73717df95182a234fdc3781810d44c39c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCnh786NU2yg3Xl\nw98+4nnmkaJjqjFiSckWB5JpZ6o0weDjAY9CxMvCRn5zfIB6pLKNNeyWKcgsQnPe\n1Uf1J+oE3adsIGwlpDHs6upIXIXdAtLrJBSN7XDbA1bafHcE+H1ARvSEM1qD2YWk\nbyxdjS7OF7mrdeNXkqFDVRhmdxxdajtDDcdfH8rqC6JolB/H7qMOAUkSqFUFg1gM\nylvObmt2FdEknz3NvtNiCDCbq1gWzlvsg29QEzklhQt9OFfma25RP2qDBpKIn/V2\nwkBkT4dHrj8ukRm5S1mRuTazs3YusZp4X6T8bLhA4YF13Wj+pH2OcRAfDnyjapEw\nXl6OdEJ/AgMBAAECgf9Dux4U6nf/NCb2PbqEMgwWq8p7gNN2aV5jCayn8MFfkwLY\nxEinNekrIlT9W9iVvQBzFtoP29SSEEvIS3JMK1bxoKuPi4wtq7SDlHYjy0RTllCv\nwGaO+vAlm7QBoVB9Mflxgz5YNGrj442kbU4ChJHnwK/QIllHjoCkOEMlKgLNwPy6\nttULdto6Efv4wo9q45/Z0Mph1I/gWPNiSKEl5l5j59y2OhogFXHY27Zcu/wWCDKB\n7LpPlGAkpJnjpde0aP94XfUmmC7mCqPFfe+dVwNvdh4MX53oCkuQIpbKVB/ARBZJ\nvQ8ku7yLFfuhWFe50t4szdPywDcXEWlkWmTsi7kCgYEA50SafWNjeSKuK4uMfulH\nKLbf7QCuH6fSWxgeo/sBKCS1lNTyvXhpqQwJtvsIpnfTqm7ptUQceOYcMGVA7zsj\nqoEYRRiLl2tBOiwtBJav/3jnCx480vEF0jhSTuMcseOEGvw83H79BNVgw/t79/2v\nt5wev1APW6ILAXGsdm9C4ZcCgYEAuXI0EHQzTFv2S3l9CY0n/hNCZrYpV3uYrnhr\nYDAbmSuYgAoyhuHby0ekDEBNvTIbYj456u7CWQyoj5MFrQ2Xpm2MvEBNohaha14L\ncfSEAY/EmXNJ+WnkkPzSH6a+ja5jE8HSxk70U4Iz/7ng49e7pwgoQpStGfp9PPvg\nMaOrc1kCgYAvYosU7exPwZ9WJL2gs0N1QCMZeG405jnfmE2O47sU8pCR8h/aWnWr\nwV+sMjtPgHXKEfeowE/lJaDY+aYYXlGsec7zOVhAqiUvOiXvLsDY43jTelqUDfZX\nYFrc9wPGHwvOS6hctVg6SU4OWdTItx3tzPsvz8OVztnabeQcUCev+QKBgGDjCdCO\n5T4/za4hCvKyjPJxnX+MLI1IRbzhrTfT6pdb75D1wvA1kF/kThEYh4URaL0rRZc4\nptFfi7F3Xr/LGjAZjC3OasEEkdFGkTQ4S7+FHXIOideFO6WEcUOYGnZrZdgsq7Jw\nDbaTkBdLRfPEAoaB/IbMpqOr+0KhVcCZgjoBAoGBALbNNmonPXtkWywn50Wiz/mF\nY0Sf6uaV59SmUnCGkO6SMNYnbt39n0f6njRMHdt2RDMmc+qUy7n57DmNTXdt613J\nDRHRS/hTrbbmxG7XrUPeFadqhZdoP2UGOVSKElUvuHZ1NzDEdytuE/I5zgHrbdlA\n8jazOUCDffqpH7sbLI5X\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-seduox@subtle-signal-282410.iam.gserviceaccount.com",
+  "client_id": "103478296881637793816",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-seduox%40subtle-signal-282410.iam.gserviceaccount.com"
+}
